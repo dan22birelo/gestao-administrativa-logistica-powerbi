@@ -119,7 +119,7 @@ Os painéis apresentaram os seguintes resultados:
 
 A demonstração da solução, com a navegação entre as páginas e a aplicação dos filtros, está disponível no seguinte endereço:
 
-**Vídeo:** LINK_DO_VIDEO
+**Vídeo:** [Assistir à demonstração do projeto](https://youtu.be/R2Cc367aWl4)
 
 ## Objetivo de Desenvolvimento Sustentável
 
